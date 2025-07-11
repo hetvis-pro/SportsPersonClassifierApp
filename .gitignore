@@ -1,0 +1,19 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints
+
+# Data
+# model/dataset/
+# model/test_images/
+# server/test_images/
+
+# System
+.DS_Store
+
+# Virtual environments
+venv/
+.env
+
+# Notebook files
+# *.ipynb

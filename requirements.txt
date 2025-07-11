@@ -1,0 +1,6 @@
+Flask==3.1.1
+numpy==2.2.6
+opencv-python==4.11.0.86
+scikit-learn==1.7.0
+PyWavelets==1.8.0
+joblib==1.5.1
