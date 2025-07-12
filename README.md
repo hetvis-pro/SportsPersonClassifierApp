@@ -39,11 +39,11 @@ SportsPersonClassifierApp/
 ## 🧠 ML Training Details
 
 📁 Dataset Classes
-Virat Kohli
-Roger Federer
-Serena Williams
-Maria Sharapova
-Lionel Messi
+1) Virat Kohli
+2) Roger Federer
+3) Serena Williams
+4) Maria Sharapova
+5) Lionel Messi
 
 🧪 Feature Extraction
 Each face is processed using:
