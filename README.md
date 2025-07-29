@@ -15,6 +15,7 @@ This is a web application that classifies images of sports personalities using a
 
 ## 📁 Project Structure
 
+```
 SportsPersonClassifierApp/
 ├── server/ # Backend: Flask app, ML logic
 ├── UI/ # Frontend: HTML/CSS/JS
@@ -22,7 +23,7 @@ SportsPersonClassifierApp/
 ├── notebooks/ # Jupyter notebook for model training
 ├── requirements.txt # Project dependencies
 └── README.md # You're reading it!
-
+```
 ---
 
 ## 📊 Model & Tech Stack
